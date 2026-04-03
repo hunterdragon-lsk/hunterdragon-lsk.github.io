@@ -1,0 +1,18 @@
+baseURL = 'https://hunterdragon-lsk.github.io/'
+languageCode = 'zh-CN'
+title = 'My Blog'
+theme = 'PaperMod'
+
+[params]
+  env = 'production'
+  Author = 'hunterdragon-lsk'
+  description = 'My personal blog built with Hugo'
+  defaultTheme = 'auto'
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  disableThemeToggle = false
+  ShowToc = true
+  tocopen = true
